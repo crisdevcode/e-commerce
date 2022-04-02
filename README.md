@@ -19,11 +19,11 @@ Creation of an e-commerce oriented to the sale of clothing.
 
 Desktop:
 
-![](/src/assets/desktop.png "Desktop")
+<img src="src/assets/desktop.png" alt="drawing" width="500"/>
 
 Mobile:
 
-![](/src/assets/mobile.png "Mobile")
+<img src="src/assets/mobile.png" alt="drawing" width="200"/>
 
 ## My process
 
